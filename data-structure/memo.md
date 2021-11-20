@@ -72,9 +72,9 @@
 -   재사용성
 -   데이터 타입의 표현에 대한 수정
 
-<style type="text/css">
+<!-- <style type="text/css">
   @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
   *{
     font-family: 'Pretendard', sans-serif;
   }
-  </style>
+  </style> -->
