@@ -1,6 +1,5 @@
 # 자료구조
 
----
 
 ## 시스템 생명 주기(System Life Cycle)
 
