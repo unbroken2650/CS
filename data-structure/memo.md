@@ -72,30 +72,9 @@
 -   재사용성
 -   데이터 타입의 표현에 대한 수정
 
----
-
-## 구성
-
-### C++ 프로그램의 구성
-
--   헤더 파일(Header)
-    .h 또는 .hpp 확장자로 선언 저장에 사용  
-    <code>#include <~~.h></code>
--   소스 파일(Source)
-    .cpp 또는 .cc 또는 .c 확장자
-
-### 영역(Scope)
-
--   파일 영역
--   네임스페이스 영역(Namespace)
-    논리적으로 연관된 변수나 함수를 한 그룹으로 만드는 기법
-    영역 정보를 사용해서 네임스페이스 안의 개체에 접근
-    ex) std::cout
--   지역 영역
--   클래스 영역
-
-### 기타
-명령문 - C와 동일  
-연산자 - new, delete 제외 C와 동일  
-입출력 - <<와 >>사용  
-**연산자 다중화**(Operator Overloading) 허용
+<!-- <style type="text/css">
+  @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+  *{
+    font-family: 'Pretendard', sans-serif;
+  }
+  </style> -->
